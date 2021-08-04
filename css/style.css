@@ -1,0 +1,13 @@
+h2.intro {
+  color-scheme: rgb(196, 149, 63);
+  text-align: center;
+}
+
+p.intro {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-shadow: black;
+}
+
+img.intro {
+  border: brown;
+}
