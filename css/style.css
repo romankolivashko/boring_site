@@ -1,4 +1,4 @@
-h2.intro {
+/* h2.intro {
   color-scheme: rgb(196, 149, 63);
   text-align: center;
 }
@@ -9,7 +9,15 @@ p.intro {
 }
 
 img.intro {
-  /* border: rgb(65, 50, 117); */
+  border: rgb(65, 50, 117);
   border-style: solid;
   border-color: blue;
+} */
+
+.top {
+  background-color: burlywood;
+}
+
+.bottom {
+  background-color: cadetblue;
 }
