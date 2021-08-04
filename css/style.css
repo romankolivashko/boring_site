@@ -9,5 +9,7 @@ p.intro {
 }
 
 img.intro {
-  border: brown;
+  /* border: rgb(65, 50, 117); */
+  border-style: solid;
+  border-color: blue;
 }
